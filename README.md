@@ -1,6 +1,7 @@
 Todo App Next Js + Prisma
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](preview-1.png)
+![](preview-2.png)
 
 ## Getting Started
 
